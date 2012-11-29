@@ -416,7 +416,7 @@ En el término de El Tremedal la caza podría ser una posible fuente de riqueza.
 
 = Historia
 
-Si por el sur El Tremedal se beneficiaba de la frescura de la Cordillera Central, por el norte tiene un gran abrigo con las montañas de su término. Al estar situado al mediodía goza de una climatología benigna si la comparamos con la altura en que está situado. Es de suponer que todas estas características atrajeron aquí a los primeros pobladores, ya que según la historia en los valles surgían continuamente las contiendas militares de guerra de guerrillas. Después de repasar algún libro de historia sobre los primeros pobladores de la zona, se ha podido resumir como presumiblemente fueron unos castros, vetenos, unos de los primeros pobladores de estos contornos, personas muy sufridas, valientes, hospitalarios, y con una dura aferración, que impusieron su ley en parte de Castilla, Extremadura y el vecino Portugal.
+Si por el sur El Tremedal se beneficiaba de la frescura de la Cordillera Central, por el norte tiene un gran abrigo con las montañas de su término. Al estar situado al mediodía goza de una climatología benigna si la comparamos con la altura en que está situado. Es de suponer que todas estas características atrajeron aquí a los primeros pobladores, ya que según la historia en los valles surgían continuamente las contiendas militares de guerra de guerrillas. Después de repasar algún libro de historia sobre los primeros pobladores de la zona, se ha podido resumir como presumiblemente fueron unos castros, vetones, unos de los primeros pobladores de estos contornos, personas muy sufridas, valientes, hospitalarios, y con una dura aferración, que impusieron su ley en parte de Castilla, Extremadura y el vecino Portugal.
 
 Hay en el contorno de El Tremedal unas cuevas o canchos destacados como son Caseta del Nene, Cancho la Mina, etc, que al menos hacen un abrigo natural, con abundante agua muy próxima, que aunque parezca quizá un tanto descabellado, se podría pensar en que fueron los primeros habitáculos. 
 
@@ -426,8 +426,233 @@ Se puede suponer que la bonanza del agostadero o sierra del pueblo, fue la que p
 
 Tengo a la vista un libro editado por la Diputación de Salamanca que es donde con más antigüedad se hace notar el nombre de El Tremedal y que dice así:
 
-1455, noviembre 25, Candelario.
+    1455, noviembre 25, Candelario.
 
-El alcalde y los regidores del Consejo de Béjar sentencian contra los habitantes de Candelario que habían labrado en la cañada que pasa por dicho lugar.
+    El alcalde y los regidores del Consejo de Béjar sentencian contra los habitantes de Candelario que habían labrado en la cañada que pasa por dicho lugar.
 
-En Candelario, aldea o término de la villa de Béjar veyntee çinco dias del mes de noviembre, año de mil ecuatrocientos e cincuenta y çinco-años, estando dentro en el dicho lugar de Candelario por el consejo de la Villa de Bejar Alfonso Arias, bachiller, e Gonçalo Rodriguez de Salamanca e Diego Sanchez e Pedro Martinez de Cuacos, que son de los ombres buenos e regidores que han de
+    En Candelario, aldea o término de la villa de Béjar veyntee çinco dias del mes de noviembre, año de mil ecuatrocientos e cincuenta y çinco-años, estando dentro en el dicho lugar de Candelario por el consejo de la Villa de Bejar Alfonso Arias, bachiller, e Gonçalo Rodriguez de Salamanca e Diego Sanchez e Pedro Martinez de Cuacos, que son de los ombres buenos e regidores que han de ver yordenar los fechos e faciendas del consejo de dicha villade Bejar por nuestro señor el conde Don Alvaro de Destuñiga, et estando ay por el consejo de Candelario Gil Sanchez de la Majada e Gil Perez e Juan Rramos e Juan Pereze Juan Garcia e Gil Sanchez e Alfonso Sánchez del Molino e Diego Sánchez de Navaluenga e Andrés Gutierrez (sic) e Alonso Sánchez de Lagonilla e Ferrand Sánchez Rrollan e Alonso Gómez e Juan Garcia de Santivañez e Alonso Fernández de Pascual e Domingo e Alonso, yerno de Ferrand Martín Nieto, e Benito Garáia e Juan Ferrandez Corrales e Gil Sánchez Frayle e Gomez del Tremedal e otros mucho buenos ombres de dicho lugar et en presencia de mi Juan Dorante, escrivano público de los fechos del consejo de la ficha villa de Bejar, e de los testigos de yuso escriptos.
+
+Los fichos regidores e alcalde dixeron que,por cuanto por parte de Martín Sánchez de Hervás, e de Diego Sanchez de Valdesangil, vezino de dicho lugar de Candelario, sesmeros que son de la tierra de la dicha villa e en nombre de toda la tierra e de los vezinos della avia sydo quexada en el dicho conáejo de la dicha villa e en nombre de toda lat ierra e de los vezinos della, avia sydo quexado en el dicho consejo de la villa en commo Alnso Munoz Nieto, vezino del dicho lugar de Candelario, tenia entrada e tomada una tierra e majada en la tierra concegil, a dodizen la Reconada, por lo dizen que han de aver e escañada por do van los ganados a los extremos e veien e salida e entrada para ellos; e fue pedido que sobrello los proveyese de justiáia mandándoles dexar desenbargamente la dicha cañada e paso, por los fichos ganados fuesen e viniesen a los extremos; he fue dada carta sobrello por el dicho concejo, alcaldes e regidores de la dicha villa, la cual carta el dicho Alonso Muñoz Nieto, con las otras personas que tenian entrada la dicha cañada non quesyeron lo que por las otras personas que tenian entrada la dicha cañada non quesyeron lo que por la dicha casta era mandado; e que agora los dichos regidores e alcalde eran venidos allí, por ver por sy mismo la dicha tierra e cañada e paso, para ver sy fazya agravio al paso e salida de los ganados; a ellos lo avian ya bien visto e paseando e informados bien de la verdad dello, e que davan e mandavan en nombre del conáejo, e alcaldes e regidores de la villa de Bejar, por cuyo mandamiento ellos allí eran venydos en razon de la dicha cañada e paso, e que mandavan e mandaron que en ella dicha cañada se tuviese este orden que sigue:
+
+    Primeramente, que en cuanto tocaba a las tierras quel dicho Alnso Munoz tyene senbradas en la dicha cañada e paso, que este presente año que goze del fruto que tyene sembrado este dicho año, pero que de aquí adelante que le ponen sylençio perpétuo para quel nin otro por él non labre las dichas tierras syn liçençia e mandamiento de nuestro señor el conde o del dicho conáejo: e esto non tan solamente al dicho Alnso Muñoz, más aún a todas las otras personas que aliende del vado tenian senbrado o ronpido en la conçegil...
+
+He creído conveniente mencionar la anterior lectura debiendo destacar que es una aportación muy valiosa al menos para asegurar en qué época el Tremedal ya figuraba como pueblo, ya que anterior a esto, nada he podido confirmarlo. Por otra parte es curioso observar las distinciones que tenían con la cañada o paso del ganado por lo que se comprende que para Castilla era el principal medio de vida. Nos podemos preguntar el porqué apareció en Candelario el nombre de una persona de El Tremedal cuando la distancia entre los dos pueblos es considerable. Yo pienso que debió ser quizá por dos razones, una de ellas podía ser que Candelario al parecer siempre estuvo muy vinculado con El Tremedal; en la antigüedad podía ser porque en el primero había varias ganaderías y nuestros hombres siempre fueron unos sufridos ganaderos, destancando por su fidelidad y conocimientos. Y la otra causa, y quizá la fundamental, es que había un grupo de pueblos que pertenecían al ducado de Béjar y por tanto a la provincia de Salamanca hasta el año 1833 que pasaron a ser de Ávila.
+
+Estos pueblos pertenecían al "sexmo" de la sierra y son estos: Solana de Béjar, Sta. Lucía, Mazalinos, La Zarza, El Tremedal, Palacios, Becedas, Gilbuena, San Bartolomé, Neila, Junciana y Medinilla.
+
+Como ya queda dicho este grupo de pueblos perteneció al Ducado de Béjar y por tanto es de suponer que de ahí pueden proceder los nombres de Solana de Béjar y San Bartolomé de Béjar: pasando el primero a llamarse, hace escasos años, Solana de Ávila.
+
+Acerca de la historia de El Tremedal que nos venimos refiriendo, si nos paramos a pensar observaremos como no hay nada que destacar, paredaño, casa, etc, que pudiera testimoniar la antigüedad del poblado.
+
+Yo pienso que lo más antiguo que se puede encontrar en el término serían los bancales-gabias de contención de tierras de las huertas.
+
+También nos podemos fijar en unos peñascos que hay sobrepuestos, en una forma bastante parecida a un dolmen o megalito, y en su alrededor un cerco con los restos de una pared, medianamente visible que parecería tener una relación con los peñascos. En caso positivo sí que podría ser prehistórico. Yo tengo muchos interrogantes, sobre si es un dolmen o no lo es, lo que parece es que algún significado tiene. Las piedras están en la parte sur del sitio que decimos Cerrado, a pocos metros al nore del Canchal de los Cierros.
+
+= Ayuntamiento
+
+Los datos recogidos de todo lo concerniente al Ayuntamiento de El Tremedal son fiables pero muy escasos; no es agradable tener que decir que sólo tenemos algún dato a partir del año 1845 cuando Pascual Madoz, gran político liberal, culminó la famosa obra Diccionario-Estadístico-Histórico de España, donde se puede leer que El Tremedal tiene 50 casas y la del Ayuntamiento en mal estado. El año 1860, la Diputación Provincial y las oficinas de Hacienda emitieron los datos oficiales del censo corregidos por el Gobierno, de este mismo año este pueblo viene asignado con 175 habitantes. El diccionario Geográfico de España de Espasa Calpe 1958 le asigna 280 en 1910.
+
+En unos documentos muy deteriorados hemos podido ver el censo efectuado de tarde en tarde desde 1923 hasta nuestros días (No sé si será mucho decir, pero tengo la creencia que antes de las mencionadas fechas no debió la gente estar censada).
+
+Año | Vecinos | Habitantes | Fuente información
+1923 | 73 | 288 | Ayuntamiento
+1930 | 88 | 275
+1935 | 84 | 261
+1946 | 63 | 213
+1950 | 73 | 275
+1965 | 63 | 193
+1990 | 13 | 27
+
+Como podemos observar, el número de vecinos ha estado bastante estabilizado hasta llegar al éxodo de la emigración.
+
+En cuanto a los habitantes, tengamos en cuenta que son habitantes de derecho, pero no de hecho puesto que, como ya mencionamos en otra parte, el cabeza de familia de cada casa, o al menos de la mayoría, se marchaban con el ganado a Extremadura y estaban fuera del pueblo por lo menos diez meses.
+
+Sobre lo que hemos leído en renglones anteriores, que lo dice Madoz en 1850 "Ayuntamiento en mal estado", o bien se había deteriorado tanto que no lo podían usar o queda mucha duda en la realidad, motivado a que las personas que componían el Ayuntamiento se tendrían que reunir hasta 1903 en una casa o un local de alquiler, a juzgar por el escrito de algún pleno del Ayuntamiento que dice así textualmente:
+
+  Sesión ordinaria de quince de Diciembre de mil ochocientos noventa y cinco: Reunidos los señores del Ayuntamiento en la casa que tiene alquilada para sus reuniones y en sesión ordinaria de este día según está prevenido por el Señor Alcalde Presidente, se manifestó abierta la reunión, dando principio por el acta anterior quedó aprobado, se leyeron los Boletines Oficiales y se cumplimentaron las órdenes. Y transcurrido un largo rato y no habiendo más que tratar el señor presidente dio por terminada la sesión, firmado el que sabe de dichos señores, de que yo el Secretario Certifico:
+
+  Firmado, Lorenzo Hernández
+
+  Alcalde: Martín Sánchez López
+  Concejal: Pedro García
+  Concejal: Gabriel Garrido
+  Concejal: Braulio Martín
+  Concejal: Pedro González
+  Concejal: Jose Calle 
+  
+Por lo que se ha podido ir recopilando, parece ser que la Corporación del Ayuntamiento, junto con los propietarios de la Sierra de El Tremedal, unos y otros llevaban la administración de la finca, puesto que leemos un documento que por parecer curioso e interesante que transcribimos, su contenido dice así:
+
+  En Tremedal a 23 de abril de 1905, reunidos los señores del Ayuntamiento, Junta Municipal y Junta de Ganaderos y los mayores contribuyentes, siendo las cuatro de la tarde y todos de común acuerdo, trataron del arreglo de la Sierra del Municipio y las aguas y nombrar de guarda para cuidar de ellas y reunidos se abrió la discusión en la forma siguiente: Primeramente se trata de nombrar a Marcelino Hernández, para guardar las aguas y la Sierra y el guarda cobrará diariamente siete reales y medio desde el día quince de éste, hasta el veinticuatro de Junio y este sueldo será abonado la mitad por acciones de la sierra y la otra mitad por el regadío de prados y hortalizas, y las "penas" serán para el guarda y las vacas perradas pagarán veinte céntimos al día y cuarenta de noche y las ovejas, cada diez, veinte céntimos y de noche cuarenta y los burros, cabras y yeguas a lo mismo que salgan y el ganado forastero pagaría lo mismo que lleven en los pueblos limítrofes, siendo la mitad para el guarda y la otra mitad para el pueblo.
+  
+Parece ser por lo que se ha podido ver en documentos un tanto confusos, como en 1924 en un Pleno de Ayuntamiento, la Corporación se dio por enterada de un comunicado del Gobierno Central proponiendo la Agrupación del pueblo con otro municipio: la respuesta no es vista.
+
+En 1927 en un pleno del Ayuntamiento la Corporación acuerda agruparse con Santa Lucía para los efectos exclusivos de tener un Secretario para los dos ayuntamientos. Hasta esta fecha nada hemos podido aclarar si El Tremedal tenía Secretario solamente para su Ayuntamiento por los pocos documentos que se han podido ver, parece que sí, pero no podemos confirmarlo. La economía del Ayuntamiento debía ser muy deficitaria ya que tenía un presupuesto el 1923 de 2.651,50 pts, el año 1931 de 5.031 pts, el 1942 de 9.324, para aumentar el 1949 a 19.305. No podían cubrir el presupuesto, teniendo que recurrir a impuestos personales como lo he copiado textualmente:
+
+  Pueblo de Tremedal
+  
+  Repartimiento formado por el Ayuntamiento y Junta Municipal para cubrir las atenciones del presupuesto municipal y demás gastos según costumbre, girando dicho reparto sobre un impuesto por Territorio, Ganadería, Personal y riego sin pertinencia, correspondiente al 4º trimestre del año económico de 1923-24.
+  
+  VºBº Firmado: 
+  El alcalde: R. Manuel Garrido
+  El secretario: Hilario Ovejero Trapero
+  
+  El reparto que se efectúa es como sigue:
+  
+  Por territorio no es posible aclararse ni tampoco por riego.
+  Por cada persona de la casa 40 céntimos.
+  Por cada animal mayor 1,80 pts
+  Por cada animal menor 18 céntimos.
+  
+Tengo a la vista una relación de todos los vecinos que dice así:
+  
+  "Lista cobratoria para hacer efectivas las cuentas consignadas en la misma, para atender las obligaciones del presupuesto municipal del año y trimestre de la fecha: pastos, leña y rastrojeras.
+  
+  Bases: esta lista está hecha cargando a los ganados menudos a 23 céntimos y a cada vecino 50 céntimos y al medio 25 céntimos por consumo. 
+  
+  En la lista hay 79 vecinos.
+  
+  El Tremedal 8 de Marzo de 1927
+  
+  Firmado
+  El Alcalde: Martín González Garrido
+  El secretario: Francisco Sánchez Vaquero
+  
+También se cobraba la tasa de tránsito de animales domésticos que andaban por la vía pública; esto quiere decir que el animal que pisaba la calle, tenía que pagar, de alguna manera había de cubrirse el presupuesto. Todos estos impuestos mencionados del Ayuntamiento se erradicaron en la década de 1950-60. Hemos de acentuar como estos impuestos y sobretodo cuando el alguacil echaba el pregón diciendo que tal día venía el recaudador de la contribución, a la gente le generaba un escozor que miraban al recaudador con recelo, y cogiendo los recibos después de pagar, se despedían de él con esta única frase: ¡Estamos cosidos de pagos!.
+
+El recaudador cobraba la contribución en el Ayuntamiento, que estaba ubicado desde 1903, hasta que pasó a depender de Solana, en los altos de la casa propiedad del Ayuntamiento y antigua escuela, en el Moral.
+
+Seguimos con la economía del Ayuntamiento y de las varias formas que usaba para recoger algún dinero. En un documento con una gran presentación leemos textualmente:
+
+  Fondos Municipales Ayuntamiento de El Tremedal
+  
+  El depositario de dicho Ayuntamiento D. Juan García Garrido. Me haré cargo en la cuenta de la Depositaría que me está conferida de ciento ochenta y siete pesetas y cincuenta céntimos que he recibido del Recaudador de Municipales, por lo recaudado de los ganaderos por los aprovechamientos de pastos y rastrageras de terrenos abiertos y cedidos por sus dueños a favor del presupuesto en ejercicio.
+  
+  En Tremedal a 26 de Junio de 1896
+  
+  Recibí del depositario: No hay firma
+  El alcalde: Martín Sánchez
+  
+Tenemos que hacer constar que hemos visto un cargáreme del Ayuntamiento con un dictado semejante al que terminamos de copiar, solamente que con fecha del 31 de diciembre de 1931.
+
+En el término municipal siempre se han criado abundancias de escobas, y años atrás, hasta que la gente usaba con continuidad la lumbre, subían a por ellas personas de los pueblos contiguos y sobretodo de La Carrera, que al llegar el mes de septiembre de cada año, se desplazaban a por sendos carros de escobas arrastrados por las forzudas vacas barqueñas que hoy tan pocas se pueden ver... El Ayuntamiento cobraba un dinero un poco considerable, a pesar de que la picaresca siempre está presente y algún carrero se marchaba llevándose las escobas y el dinero que había traído para pagarlas.
+
+Por un real decreto sacado a la luz en el Boletín Oficial del E. el día 23 de abril de 1977, se aprueba la incorporación del Ayuntamiento de El Tremedal al de Solana de Ávila. En este comunicado se alega que la incorporación se efectúa por carecer de población suficiente y de medios económicos para atender los servicios municipales de su competencia. Todo esto en parte puede ser así, pero lo que sí que es real es que había unas personas interesadas en esta fusión e hicieron ver a la Corporación y a los vecinos de El Tremedal unos objetivos que podían rozar el engaño.
+
+He podido obtener de viejos y empolvados documentos, una relación de hombre, que sin duda marcaron sus decisiones en el Ayuntamiento, con aciertos y fracasos, pero siempre pensando en mejorar en lo posible al pueblo. Aquí solamente están a partir de la última década del siglo XIX, no habiendo conseguido otros más antiguos.
+
+A pesar de no tener unos datos tan precisos como quisiera, me complace sacar a la luz pública un índice de corregidores que tomaron como símbolo el bastón, como expresión de la más alta autoridad del pueblo. Con unos nombres y apellidos y la referencia de una fecha que ejercían tal cargo, rodeados de críticas e ingratitud y las menos de alabanzas.
+
+Anotaremos como nuestros alcaldes, así como todas las personas que formaban el Consistorio, que solían ser cinco o seis, en alguna ocasión, más el secretario, siempre fueron respetadas por todas las personas del pueblo y en el interior del Ayuntamiento se les trataba en todo caso de usted y quizá hasta con la montera en la mano.
+
+Pienso que esto va en contradicción con la palabra un tanto desagradable de "chupones" que a veces oías entre los vecinos, bien por la subida de algún impuesto o bien por alguna contradicción que había tenido con alguno de ellos.
+
+Parece una palabra poco acertada, a pesar de que es cierto que el dinero se pega mucho, aunque con los presupuestos que hemos señalado antes, debían ser más la fama que la realidad en el caso que nos ocupa.
+
+Cada Alcalde ha tenido una forma de actual, unos se distinguieron por que los caminos y puentes, cuando no había carretera, estuvieran bien arreglados, otros por conseguir la luz eléctrica y el teléfono para el pueblo, otros por que nuestras aguas estuvieran legalizadas, solicitar escuelas, carreteras, otros por las fuentes públicas y agua corriente, etc. De lo que no debemos tener duda es que todos pusieron su mayor empeño a cambio de nada.
+
+Alcaldes que encabezaron bandos que a viva voz pregonaba el alguacil después del son de trompeta:
+
+1889 Francisco García Garrido
+1895 Martín Sánchez Díaz
+1897 Manuel Casildo García
+1899 Francisco Barrena García
+1903 Nicolás González Garrido
+1904 Manuel Mateos García
+1907 Rafael Sánchez Martín
+1911 Martín Sánchez Díaz
+1912 Manuel García Martín
+1913 Martín Sánchez Días
+1914 Francisco García Garrido
+1917 Nicolás González Garrido
+1918 Braulio Marín Garrido
+1920 Pedro García Garrido
+1922 Francisco Barrena Martín
+1923 Rufino Manuel Garrido
+1924 Martín Sánchez Díaz
+1926 Mateo Martín González
+1927 Martín González Garrido
+1930 Braulio Martín García
+1933 Juan José Blázquez Mateos
+1934 Marcelino García González
+1935 Celedonio Manuel Garrido
+1936 Juan García Martín
+1937 Martín González Garrido
+1939 Saturio Martínez Espinosa
+1940 Juan García Calle
+1942 Félix García Martín
+1943 Vicente Calle Martín
+1946 Juan García de Flora
+1948 Juan García Calle
+1950 Ambrosio González Garrido
+1956 Manuel Sánchez Sánchez
+1969 Pedro Martín Calle
+1977 Ventura Hernández Hernández de Solana
+1979 Bernardo Hernández Hernández de Solana
+1983 Eusebio Muñoz Muñoz
+1991 Víctor Martín Mateos
+1995 José Sánchez González
+
+Estos hombres y sus corporaciones no caminaron con la señal del protagonismo, sin quedar sus nombres escritor en pergaminos o murales.  Si acaso la pluma les grabó en algún papel, el tiempo se encargará de borrar su nombre. Mientras el bien que ellos hicieran al pueblo ahí queda para siempre, aunque sólo sea reconocido en parte.
+
+= Paisaje Urbano
+
+El asentamiento de El Tremedal está muy acertado ya que está enclavado en un altozano mirando al mediodía, y con la ventaja que las aguas de la montaña discurren por los dos lados del pueblo. Sus fundadores buscaron la solana y el abrigo de la montaña para evitar en parte el frío y gozar del sol. Durante los siglos XVIII y XIX, el sistema de construcciones rurales de la comarca se caracterizó por empleo de piedra unida al barro complementada con hastiales de adobes. En el Tremedal no fue menos, y si nos fijamos detenidamente, podemos admirar unas paredes hechas de piedra y barro que merece la pena contemplar.
+
+Estas paredes en una buena parte, se las ha lucido con mezcla de cemento y arena, por lo que han perdido su mérito.
+
+Todavía hay tejados con cabríos de roble, y entre estos y la teja existe una capa de escobas bien colocadas que sirven de abrigo  en parte evita que se introduzca la nieve en el interior, y sobre todo para aminorar el frío.
+
+La mayoría de las viviendas tienen la planta baja y un solo piso, recibiendo la luz y el aire por la puerta de la entrada y por pequeñas ventanas. En la antigüedad la cocina solía estar en el piso y las alcobas en la planta baja. Ahora ya no es así, la cocina es más cómoda estando en la planta baja y en la alta, la sala, y al fondo un par de alcobas quizá con poca ventilación.
+
+En su mayoría las casas son de poca extensión, tenía la gente mucha predilección por la tierra, por lo cual alguna vez se oía esto de: "Tierra cuanta veas, casa cuanto quepas". Sin duda se han cambiado los términos a pesar que en El Tremedal no hay ninguna construcción ya que no se hace una casa de nueva planta desde 1933 y la gente se limita a adecentar las casas lo mejor posible para hacerlas más confortables pero nada más. Destacando que al llegar el agua corriente los vecinos se apresuraron a instalar el cuarto de aseo, ya que anteriormente a esta fecha no había ninguno, así como hoy sólo hay un mínimo número de viviendas que no lo tengan, por ser de gran utilidad.
+
+Es muy difícil saber en la época que se construyeron estas casa que nos venimos refiriendo. Hay algún dintel en las portadas de al menos tres casa distintas que indican el año de su construcción, 1808, 1850 y 1866, no habiendo ninguna duda el que estas fechas nada tienen que ver con el origen del pueblo ya que este es mucho más antiguo.  Lo que sí nos podemos fijar es que la mayoría de casa de vivir tienen semejante construcción y hasta parecido color, lo que pudiera predecir que fueron construidas en la misma época, y entonces sí que podían ser válidas las fechas grabadas en las piedra de la puerta de entrada que antes hemos apuntado.
+
+En El Tremedal en cuanto a casa hay una cosa a destacar y es que las casas donde se cierra el ganado están fuera del poblado y alguna hasta a una considerable distancia de las de vivir, siendo esto una cosa muy acertada. Lo que ocurre con la mayoría de estas casas es que estando cerca de la carretera no pueden acceder a ellas los vehículos por tener estas las entradas situadas en estrechas callejuelas. Al construirlas no tuvieron esto en cuenta, puesto que por aquel entonces todo se hacía a lomo de los burros o más bien de los hombres y también de las mujeres que trabajaban demasiado porque su hombre estaba apacentando el ganado. Por aquel entonces como no había carretera, pues no se pararon a pensar de que un día pudieran llegar vehículos de motor.
+
+Casas utilizadas para vivienda en el pueblo hay 82 ó 83 y otras tantas para cerrar el ganado. Estas casas, igual unas que otras, hasta la década de los 50 estaban todas ocupadas.
+
+La casa de ganado se compone de planta baja, que es donde se tiene el ganado y un piso en la parte de arriba conocido como el payo o el pajar, que es donde se cierra el heno que se siega en los prados para que los animales pudieran comer durante el invierno. De estas casas hay algunas muy deterioradas y hasta en ruina, sobretodo las de ganado. Si nos fijamos con atención, observaremos como las paredes de las casas de ganado de la Gargantilla tienen una construcción más deficiente y están peor terminadas que las viviendas del pueblo. En esto pudiera influir que fueran hechas en otra época, que no hay duda que fue muy posterior.
+
+Refiriéndome un algo a la pavimentación de las calles del pueblo, por el año 1960, el Ayuntamiento procedió a ponerlas con un suelo de piedra, tipo lancha, que si no estaba del todo bien, al menos no se formaba barro y para la nieve y el hielo fueron bastante favorables.
+
+Al llegar al pueblo el agua corriente, pues debieron levantarse para poner las cloacas y quedando en bastante mal estado por el barro que se formaba y así continuaron hasta el año 1984 que se las echa el pavimento que tienen ahora. También entonces se procedió a quitar algunas paredes de corrales en las calles por lo que estas quedaron algo más amplias y mejorada en todos los aspectos. Tenemos que señalar como en las tuberías del agua en el momento de su instalación, fueron colocadas un par de bocas de riego e incendios. Pasando unos años, se vio que ya con el agua en las calles, se debiera tener alguna cosa adecuada para que en caso de fuego, hubiera algo apropiado para contenerlo, ya que no había nada para tal precisión. Por todo esto, en el verano de 1989, en una asamblea de vecinos se acordó solicitar de la Diputación un equipo de extinción de incendios, como así se hizo.
+
+Pasado un año y después de recordárselo alguna vez a la Diputación, esta concedió el mencionado equipo más tres bocas de incendios para colocar en los sitios más adecuados de las tuberías. Siendo estas colocadas en octubre de 1991. También en esta fecha se compró treinta metros de manguera para dicho equipo, con el fin de llegar con más facilidad a los sitios más difíciles.
+
+Por lo cual en este aspecto quedó solucionado, y en caso necesario, hay alguna cosa más o menos acertada para tal fin, aunque quizá no sea tan completa como nos gustaría.
+
+Recordando de nuevo las calles de El Tremedal, que tanto conocieron nuestros antepasados con nombres cargados de historia y de tanta significación popular; nombres que si no recuerdan a nada ni nadie famoso, al menos están enraizados en todas las generaciones, como son la calle del Socasillo, el Moral, calle de Abajo, calle de los Perros y la calle Mayor, que siendo la principal y un poco más larga que las demás, es la menos mentada por todos. Estos son nombres antiguos, que quizá haya cambiado alguno el Catastro, pero para los vecinos seguirán siendo estos.
+
+La Plazuelilla es la plaza más popular y única del pueblo: Esta plaza siempre tubo el mismo nombre, lejos de ser como otras plazas que las bautizan repetidas veces entre favorables partidistas o apelativos populares o con el título del monarca reinante. la Plazuelilla no cambió el nombre pero cambió la estética, al manar allí una fuente, que tanta utilidad proporcionó algún tiempo, aunque en la actualidad no sea así, al tener todas las casa agua corriente.
+
+En la Plaza de este pueblo
+hay una piedra redonda
+donde Cristo puso el pie
+para subir a la gloria.
+
+Por la Plaza voy entrando
+y te voy llamando reina
+traigo para regalarte
+una corona de estrellas
+
+Por la Plaza voy entrando
+voy derramando papeles
+y en ellos voy escribiendo
+morena la sal que tienes.
+
+= Entierros - Cementerios
+
+Hasta hace pocos años, se anunciaba una muerte doblando la campana, sonando con un lenguaje de tristeza, que impresionaba a todos recordando el fin de una vida. Antiguamente y hasta hace no muchos años el ceremonial de los entierros, aún siendo con sencillez, era emocionante.
+
+Al difunto se le ponía en el lugar más extenso y preferente de la casa, velándole los familiares más íntimos, con continuos rezos y lágrimas, un gran silencio o quizá algún que otro recado a baja voz. Hoy las costumbres han cambiado, el cerimonial es distinto, aunque el sentimiento sea semejante. Según la historia en tiempos remotos, a los muertos se les enterraba en dólmenes, como también se nos confirma que los pueblos primitivos hacían las sepulturas en grutas naturales o en cuevas excavadas con esfuerzo y picardía para proteger de agraviar los restos de sus difuntos. Parece ser, siempre según la historia, como al ir pasando los siglos los gentiles que ocupaban las comarcas, daban tierra a sus muertos en pleno campo, con el máximo respeto y solemnidad y hasta dentro de sus propiedades. Al transcurrir de los siglos se enterraba a los difuntos dentro de las iglesias, hasta ponerlas a tope, que al fin vieron por optar por hacer las sepulturas alrededor. Lo que sí se puede manifestar es que hasta principios del siglo XIX, no se han enterrado los muertos en Camposanto a nivel nacional. Concretando lo que nos ocupa, El Tremedal, no se ha encontrado ninguna reliquia ni resto de tipo alguna para poder saber aunque con alguna duda, donde se daba tierra a los muertos, hasta empezar a enterrarles en Solana, pero... ¿en qué fecha se empezó?
+
+Respecto a esto lo que sí sabemos por nuestros antepasados y también por los certificados de defunción es cómo en el cementerio de Solana se estuvo enterrando a los difuntos de El Tremedal hasta el año 1898, que ya por los mencionados certificados se puede concretar que se empezó a dar sepultura en el camposanto de la Gargantilla, que parece que fue el primer cementerio del pueblo (esto sería un gran alivio para nuestras gentes, pensado el sacrificio que les suponía tener que bajar los difuntos al cementerio de Solana). Oí decir alguna vez que se bajaban por la calle de Horcajo en unas escaleras o pariguelas o bien en una caballería por el camino del monte llevando al muerto entre dos sacos de heno enlazados. Hasta la fecha mencionada del camposanto de la Gargantilla, naturalmente habría que enterrar los difuntos en Solana, ya que hasta dos o tres años antes de la construcción de este cementerio de la Gargantilla no fue declarada parroquia la iglesia de El Tremedal. Este cementerio ya se construyó de un espacio muy reducido, si tenemos en cuenta que los años que fue utilizado, fueron los años que parece ser tuvo más vecindad el pueblo. Viendo la pequeñez del recinto y que había que proceder a repetir el enterramiento en una sepultura que habría que volver a usar antes de lo debido, el Ayuntamiento procedió a gestionar la construcción de un nuevo cementerio que al menos fuera más amplio.
+
+Por todo esto, en el año 1934 se edificó el camposanto de las Calvarrillas, siendo alcalde el maestro D.Juan J. Blázquez Mateos, siendo el segundo cuerpo que reposó en el nuevo camposanto la esposa del referido alcalde, que le sobrevino la muerte de parte al igual que a dos criaturas procedentes de este alumbramiento.
+
+La tierra en que fue construido este camposanto fue donada por un vecino del pueblo y el trabajo fue efectuado por los vecinos haciendo cada uno las jornadas correspondientes hasta su terminación, corriendo el Ayuntamiento con los gastos de albañiles, materiales, etc, así como la dirección de la obra.
+
+Haciendo un poco de historia sobre los entierros, diremos que a las horas de celebrarse éste, la gente concurre llamada por el tañer de la campana a casa del difunto. Alguna mujer se adelantaba a la iglesia para preparar lo que se decía la sepultura, que consistía en un "hachero" que se llenaba de luces de cera, propias u ofrendas de familiares y vecinos. Todo el tiempo que duraba el entierro hasta la llegada al cementerio, la campana doblaba (sólo había una) con triste sonido.
+
+Desde la casa del muerto, el cadáver se conducía al atrio de la iglesia. Desde aquí todos los hombres acompañaban al difunto llevándose a hombros con gran recogimiento hasta llegar al camposanto. Aquí se depositaba el cadáver siempre en la tierra, echando todos los primeros puñados de tierra a la sepultura, entre tristes lamentos de los más allegados. El final del entierro consistía en volver a casa del finado, donde cantaban el sacerdote y el sacristán el responso, pasando hombres y mujeres depositando céntimos y "perras" una o dos veces, para hacer unos responsos que ofrecía el sacerdote, y al mismo tiempo que bendecía el pan y el vino, que los familiares del finado tenían previsto para un par de personas ofrecieran a todos los congregados, el llamado pan de caridad.  
