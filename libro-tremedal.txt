@@ -267,25 +267,25 @@ En la mayoría de estas fuentes, al asomar la primavera, brotaba la pamplina que
 
 A propósito de las fuentes recuerdo este tradicional cantar:
 
-A la fuente de este pueblo
-van las mozas a por agua
-y según sean los mozos,
-se la dan dulce o amarga.
+  A la fuente de este pueblo
+  van las mozas a por agua
+  y según sean los mozos,
+  se la dan dulce o amarga.
 
-No vayas niña a la fuente
-donde van varios mocitos
-que al mirarles distraída,
-puedes romper el botijo.
+  No vayas niña a la fuente
+  donde van varios mocitos
+  que al mirarles distraída,
+  puedes romper el botijo.
 
-Si piensas que voy por ti
-a la fuente a beber,
-no voy por ti, ni por nadie
-que voy porque tengo sed.
+  Si piensas que voy por ti
+  a la fuente a beber,
+  no voy por ti, ni por nadie
+  que voy porque tengo sed.
 
-No vayas tan a menudo
-a buscar agua a la fuente
-que si a la orilla resbalas
-se enturbiará la corriente.
+  No vayas tan a menudo
+  a buscar agua a la fuente
+  que si a la orilla resbalas
+  se enturbiará la corriente.
 
 = Flora
 
@@ -307,48 +307,48 @@ Acerca del hermoso arbolado que existe en El Tremedal os invito a leer con deten
 
 Plegaria del Árbol
 
-Tú que pasas y levantas,
-contra mí tu brazo,
-que inconsciente me zarandeas,
-antes de hacerme daño,
-mírame bien.
+  Tú que pasas y levantas,
+  contra mí tu brazo,
+  que inconsciente me zarandeas,
+  antes de hacerme daño,
+  mírame bien.
 
-Yo soy el armazón de tu cuna
-la madera de tu barca,
-la tabla de tu mesa,
-la puerta de tu casa
-la viga que sostiene el techo,
-la cama en que descansas.
+  Yo soy el armazón de tu cuna
+  la madera de tu barca,
+  la tabla de tu mesa,
+  la puerta de tu casa
+  la viga que sostiene el techo,
+  la cama en que descansas.
 
-Yo soy el mango de tu herramienta
-el bastón de tu vejez,
-el mástil de tus ilusiones y esperanzas
-Yo soy el fruto que te nutre
-y te calma la sed.
+  Yo soy el mango de tu herramienta
+  el bastón de tu vejez,
+  el mástil de tus ilusiones y esperanzas
+  Yo soy el fruto que te nutre
+  y te calma la sed.
 
-La sombra bienhechora que te cobija,
-contra los ardores del sol,
-el refugio bondadoso de los pájaros,
-que alegran con su canto tus horas,
-y que limpian tus campos de insectos.
+  La sombra bienhechora que te cobija,
+  contra los ardores del sol,
+  el refugio bondadoso de los pájaros,
+  que alegran con su canto tus horas,
+  y que limpian tus campos de insectos.
 
-Yo soy el calor de tu hogar,
-en las noches largas y frías de invierno,
-el perfume que embalsama a todas horas
-el aire que respiramos,
-el oxígeno que vivifica tu sangre,
-la salud de tu cuerpo
-y la alegría de tu alma,
-y hasta el fin
-yo soy tu ataúd
-que te acompaña el seno de la tierra.
+  Yo soy el calor de tu hogar,
+  en las noches largas y frías de invierno,
+  el perfume que embalsama a todas horas
+  el aire que respiramos,
+  el oxígeno que vivifica tu sangre,
+  la salud de tu cuerpo
+  y la alegría de tu alma,
+  y hasta el fin
+  yo soy tu ataúd
+  que te acompaña el seno de la tierra.
 
-Por todo eso, tú que me miras, tú que me plantaste por tu mano,
-tú que diste el ser y,
-puedes llamarme hijo...
-óyeme bien
-mírame bien...
-¡No me hagas daño!
+  Por todo eso, tú que me miras, tú que me plantaste por tu mano,
+  tú que diste el ser y,
+  puedes llamarme hijo...
+  óyeme bien
+  mírame bien...
+  ¡No me hagas daño!
 
 = Fauna
 
@@ -594,7 +594,7 @@ Alcaldes que encabezaron bandos que a viva voz pregonaba el alguacil después de
 
 Estos hombres y sus corporaciones no caminaron con la señal del protagonismo, sin quedar sus nombres escritor en pergaminos o murales.  Si acaso la pluma les grabó en algún papel, el tiempo se encargará de borrar su nombre. Mientras el bien que ellos hicieran al pueblo ahí queda para siempre, aunque sólo sea reconocido en parte.
 
-= Paisaje Urbano
+= Paisaje urbano
 
 El asentamiento de El Tremedal está muy acertado ya que está enclavado en un altozano mirando al mediodía, y con la ventaja que las aguas de la montaña discurren por los dos lados del pueblo. Sus fundadores buscaron la solana y el abrigo de la montaña para evitar en parte el frío y gozar del sol. Durante los siglos XVIII y XIX, el sistema de construcciones rurales de la comarca se caracterizó por empleo de piedra unida al barro complementada con hastiales de adobes. En el Tremedal no fue menos, y si nos fijamos detenidamente, podemos admirar unas paredes hechas de piedra y barro que merece la pena contemplar.
 
@@ -626,20 +626,20 @@ Recordando de nuevo las calles de El Tremedal, que tanto conocieron nuestros ant
 
 La Plazuelilla es la plaza más popular y única del pueblo: Esta plaza siempre tubo el mismo nombre, lejos de ser como otras plazas que las bautizan repetidas veces entre favorables partidistas o apelativos populares o con el título del monarca reinante. la Plazuelilla no cambió el nombre pero cambió la estética, al manar allí una fuente, que tanta utilidad proporcionó algún tiempo, aunque en la actualidad no sea así, al tener todas las casa agua corriente.
 
-En la Plaza de este pueblo
-hay una piedra redonda
-donde Cristo puso el pie
-para subir a la gloria.
+    En la Plaza de este pueblo
+    hay una piedra redonda
+    donde Cristo puso el pie
+    para subir a la gloria.
 
-Por la Plaza voy entrando
-y te voy llamando reina
-traigo para regalarte
-una corona de estrellas
+    Por la Plaza voy entrando
+    y te voy llamando reina
+    traigo para regalarte
+    una corona de estrellas
 
-Por la Plaza voy entrando
-voy derramando papeles
-y en ellos voy escribiendo
-morena la sal que tienes.
+    Por la Plaza voy entrando
+    voy derramando papeles
+    y en ellos voy escribiendo
+    morena la sal que tienes.
 
 = Entierros - Cementerios
 
@@ -666,3 +666,33 @@ En los duelos aún las casa se llenan de gente y continúa el velatorio durante 
 La viuda y las hijas del finado tiene que soportar los continuos besuqueos de las vecinas y conocidas.
 
 De los pueblos cercanos también hay tradición de acompañar a los entierros, como igualmente se hace en el pueblo en casos semejantes.
+
+= La Iglesia
+
+Considerando la estructura actual de la iglesia y viendo los pocos documentos que se ha podido conseguir, podemos asegurar que este edificio fue construido entre los años 1890 y 1896.
+
+Ya, que éste último año ya se celebraron bautizos; a juzgar por las inscripciones en los libros existentes de nacidos bautizados, en vista de que desde tiempos inmemoriales, parece que estos se celebraban en la iglesia de San Bartolomé de Solana. Por todo, el 1896, nuestra iglesia pasó a ser parroquia de San José, perteneciente al Obispado de Plasencia desde el siglo XIII, hasta el año 1957 que pasó a pertenecer a la diócesis de Ávila. Siendo el edificio de arquitectura popular, en un conjunto tal como se nos ofrece, que resulta ser agradable y sencillo. Estando construida de mampostería con aristas de sillería. Planta rectangular de una sola nave, con ábside de planta semicircular, el coro al fono de la nave y acceso lateral.
+
+La sacristía, con otra dependencia semejante, se sitúa como en volumen adosado lateralmente a la nave. Esta iglesia es de escaso interés arquitectónico, haciendo juego con la montaña, y teniendo un entorno de un gran interés paisajístico.
+
+La cobertura es de madera, sin artesanado alguno. El suelo es también de madera, el año 1954-55 se efectúo un cambio propuesto por la Iglesia, de que el celebrante debía estar de cara a los feligreses, por lo cual debieron hacerse unas pequeñas obras o más bien cambios, como fue el retirar el retablo mayor de sencilla madera y de poco valor, y transformar en distinta forma la mesa del celebrante o Altar, por una piedra toscamente labrada pero muy apropiada para tal fin. Así como hacer un poyo para el Sagrario y una plataforma fijada en la pared para la estancia de la Virgen de las Nieves y otra para San José.
+
+Pienso que entonces, el campanario se incrementó con otra campana, ya que sólo había una.
+
+Parece ser como la iglesia desde su construcción, no se la había efectuado ninguna reparación que mereciera la pena, por lo cual el tiempo había afectado al suelo y lo había deteriorado, tanto, que la madera estaba carcomida en un estado muy precario, así como parte de la madera del techo.
+
+La parte del tejado tenía necesidad de ser reparada, por todo este conjunto de cosas, un día el Párroco con los vecinos, se pusieron de acuerdo, y decidieron restaurar la iglesia. Para la cual fue necesario recurrir a instituciones, principalmente el Obispado, la Diputación, la oficina del Instituto N. de Empleo y naturalmente con la aportación de todos los hijos del pueblo, ya que se fijó una cantidad orientativa, y cada uno la aportó generosamente.
+
+Con la valiosa aportación de todos estos estamentos y personas, lo que parecía una suposición, se llevó a cabo la inauguración de la restauración de nuestro iglesia en un especial Domingo de agosto de 1985.
+
+Para poder llevar a cabo todo esto, hubo personas que debieron mover muchos palillos, entre ellos y principalmente el sacerdote. En el conjunto del edificio se hizo una reconstrucción bastante formal, ya que en el tejado sólo quedaron parte de las vigas y la mayoría de los cabrios. Merece destacara la total reconstrucción con el admirable piso de madera existente, que cuanto más lo miras, más lo admiras; todo el trabajo de la madera, pudo llevarse a cabo gracias al altruismo de un artista de la madera, que vio la primera luz en este pueblo, y que reconstruyó hasta la puerta de la entrada de la iglesia.
+
+No faltan aquel día comentarios que dicen con ilusión: ¡Qué bonita queda la Iglesia después de restaurada!, si hasta parece que las imágenes sonríen. Para celebrar la inauguración, este día se celebró una comida de Hermandad, en el amplio comedor de las eras, con un contorno formado por un conjunto de árboles, verdor y claridad, que sólo se encuentra al lado de nuestra iglesia. Una gran alegría nos invade a todos, unida a una sana convivencia.
+
+En el altar existente en un lateral en el centro de éste, está la imagen de la Virgen de las Nueves nueva, puesto que hay otra denominada con el mismo nombre y a la que decimos vieja. Es la pieza de más valor que tiene la iglesia ya que es románica. La imagen de la Purísima y de San Antonio, están uno a cada parte del altar, además hay otra imagen de la Virgen de Fátima, donada a la iglesia por una familia del pueblo.
+
+En 1991 la pila bautismal fue cambiada de sitio, ya que estaba desde su construcción en la sacristía, pasando a la nave de la Iglesia. Merece la pena destacar que no se usa desde 1977.
+
+Adosada el fondo de la iglesia está la casa vivienda del cura, puesto que hasta el año 1957 estaba el sacerdote viviendo allí; después de esta fecha, el cura sólo venía a decir misa los domingos, ya que vive bien en solana, en la Carrera, etc.
+
+Esta casa debió hacer unos años después que la iglesia puesto que hay un recibo que dice así:
