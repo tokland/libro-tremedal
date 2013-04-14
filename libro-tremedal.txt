@@ -2651,4 +2651,93 @@ Cachuela: Al sacrificar el cerdo se hace la cachuela o matanza.
 Caldereta: Forma de guisar los pastores la carne.
 Caldero: Vasija de hierro donde guisaban los ganaderos.
 Calabozo: Herramienta apropiada para cortar zarzas.
-Colambre: 
+Colambre: Piel de cabrío que al desollarse se saca a propósito para hacer una vasija que ya preparada se envasaría vino o aceite.
+Calvotero: Vasija con agujeros para asar las castañas.
+Calvotá: Dícese a una cantidad pequeña de castañas para asar.
+Content: Agasajo o propina a un guarda.
+Costal: Saco de lona, para envasar el grano.
+Coritos: Persona que con la guadaña siega la hierba para heno.
+Cordel: Camino o cañada para pasar el ganado.
+Cuajo: Llanto y pataleo: el estómago de cabrito o cordero pequeño.
+
+Chapuza: Trabajo mal hecho.
+Chisquero: Mechero de mecha.
+Chuzos: Gotas de agua que al gotear de los canales quedan congeladas.
+Chumarro: Trozo de carne asada.
+
+Dambas: Ambas, dos.
+Derrotaor: Destrozón, que gasta mucho.
+Deviejar: Señalar al animal que es viejo.
+
+Emburniega: Animal que pasa el invierno en el pueblo y no baja a Extremadura.
+Emprestar: Prestar una cosa.
+Endenantes: Antes, hace un rato.
+Encampar: Despedir al marcharse los ganaderos o ganado.
+Entresijo: Parte interior del vientre del animal, las mantecas o sebo.
+Eral: Novillo que tiene dos años.
+Escaño: Banco ancho con alto respaldo.
+Escusa: Cabezas de ganado que el amo mantiene al ganadero, siendo para este su producción.
+Eslabón: Pieza metálica de acero.
+Estezadera: Herramienta para raspara el pelo a una piel.
+Estazao: Piel curtida de los pastores.
+Fuldamentos: Ropas mal confeccionadas y desproporcionadas.
+
+Gancho: Que puesto en una vara se sujeta a la oveja a cierta distancia.
+Gandumbas: Cobardón, tranquilo, bastl.
+Garrobo: Poco activo, que le gusto aprovecharse de los demás.
+Goler: Fisgar, hablar con unos y otros de cosas sin interés, curiosear.
+Gobanilla: Articulación y parte de la muñeca.
+
+Hachero: Madera apropiada para colocar las velas en la iglesia.
+Hace: Haz, porción atada de heno, mieses o leña.
+
+Jalbegar: Con tierra blanca para blanquear las paredes interiores.
+Jamar: Comer.
+Juncia: Raíz de esta planta, muy amarga y de olor desagradable, que se administra como curativo al ganado.
+Jipar: Ladrido seguido y distinto que hace el perro mastín al ir tras un animal salvaje.
+Jato: Lío de ropa, jato de los pastores.
+Juye: Huye, correr aprisa.
+
+Lagarta: Mujer astuta y mal intencionada.
+Larguero: Vara larga para mover la lumbre al estar calentando el horno.
+Levadura: Levadura, harina fermentada imprescindible para amasar el pan.
+Lobá: Dícese cuando el lobo mata varias ovejas.
+Lóbado: Enfermedad del ganado vacuno. Carbunco.
+Lumbrera: Separación de dos tejas en el techo de la cocina para salida del humo y entrada de la luz.
+
+Llamadera: Aguijada, vara para guiar la yunta de vacas.
+Llares: Cadenas gruesas de hierro para colgar el caldero encima de la lumbre.
+Machorra: Estéril, dícese de la hembra que no pare.
+Majá: Majada, lugar donde en la noche se albergan ganaderos y ganado.
+Majos: Ropa nueva y vistosa.
+Majano: Piedras movedizas y que en la tierra de labor se amontona.
+Mampara: Resguardo movible para los pastores, hecho de madera y cubierto de aneo o juncos y también puede ser metálica.
+Manear: Poner una cadena en las manos de una caballería.
+Manzar: Dícese de la leche que formando un movimiento continuo en un recipiente hondo y estrecho, parte de ésta se transforma en mantequilla.
+Marrá: Tierra que alrededor de un árbol o majano, que en parte no se labró.
+Mayoral: Encargado de trabajadores, ganaderos, pastores.
+Mercar: Comprar alguna cosa.
+Mezucón: Meticón, curioso en demasía.
+Moraga: Trozo de carne asado en la lumbre.
+Mostrenco: bruto, torpe.
+
+Peal: Media sin pie, que se sujeta a éste por una trabilla de tela.
+Pedernal: Variedad de cuarzo que da chispas al ser rozado por el eslabón.
+Pena: Dinero que cobraba el guarda al encontrar un animal en finca ajena.
+Perras: Monedas sueltas, dinero.
+Piquera: Pequeña herida en la cabeza.
+Polainas: Bota de la pierna que cubre a estas hasta las rodillas.
+Potaje: Legumbres secas guisadas con aceite para comer en día de abstinencia.
+Probe: Pobre.
+Puches: Leche con harina que hervirá para que espese.
+
+Rabero: Ronzal, trozo de soga.
+Rapaterrón: Al rope, a ras de suelo.
+Reata: Soga usada para sujetar las cargas en un burro.
+Regajo: Trozo de tierra fértil de hierba.
+Rebollo: Roble pequeño.
+Remudo: La ropa para mudarse.
+Respingar: Dar saltos, retozar.
+Retejón: Trozo de teja.
+
+
