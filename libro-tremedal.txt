@@ -2740,4 +2740,29 @@ Remudo: La ropa para mudarse.
 Respingar: Dar saltos, retozar.
 Retejón: Trozo de teja.
 
+Segureja: Hacha pequeña.
+Segurón: Hacha grande.
+Soldá: Sueldo que percibía el ganadero.
+Soltar: Dar larga a las ovejas que están en el redil.
+
+Tasajo: Carne cortada a tiras y puesta a secar.
+Tarabilla: Trozo de madera redondeada que puesta en una punta de la soga, ayuda a apetar el haz.
+Tempero: Humedad de la tierra.
+Torrezno: Trozo de tocino frito.
+Toza: Trozo de madera para partir la carne.
+Trabajo: El rayo se decía, le mató un trabajo.
+Trocha: Vereda angosta, que sirve de atajo.
+
+Ventorro: Venta de hospedaje reducido donde pasaban la noche los arrieros y ganaderos de cordel.
+Vicio: Estiércol, excrementos de los animales.
+
+Yesca: Sudoración de algún roble viejo.
+Yunta: Un par de vacas o caballerías.
+
+Zaguero: Dícese cuando uno va retrasado.
+Zagal: Muchacho ayudante del pastor.
+Zajones: Zahones, delantal de cuero con perniles abiertos atados a los muslos.
+Zurrón: Bolso de piel, con un solo corte en el cuello, que se ha sacado a un anal pequeño.
+
+= Fuentes
 
